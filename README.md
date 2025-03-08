@@ -9,3 +9,5 @@ fandoms: brawl stars, reverse: 1999, cookie run, hollow knight, honkai star rail
 dislikes: bugs, gore, nsfw, attention seekers, drama
 
 dni: basic criteria, 
+
+||test||
